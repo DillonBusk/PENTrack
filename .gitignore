@@ -38,4 +38,4 @@ doc/
 compile_commands.json
 
 #ignore LANL fields
-In/LANLstuff/mag_fields/*
+In/LANLstuff/mag_fields/*.
