@@ -36,3 +36,6 @@ doc/
 #ignore VS Code files
 .vscode/
 compile_commands.json
+
+#ignore LANL fields
+In/LANLstuff/mag_fields/*
