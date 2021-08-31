@@ -39,3 +39,4 @@ compile_commands.json
 
 #ignore LANL fields
 In/LANLstuff/mag_fields/
+test/spin_transport_test/magnetic_fields/
